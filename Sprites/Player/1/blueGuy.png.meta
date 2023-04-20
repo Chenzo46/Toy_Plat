@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 24249556c82d8cd4fb3543de6fc2dffe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5016800023942015794
+    second: blueGuy_0
+  - first:
+      213: 2897864994493270489
+    second: blueGuy_1
+  - first:
+      213: 452484380795413661
+    second: blueGuy_2
+  - first:
+      213: 4843688250151194621
+    second: blueGuy_3
+  - first:
+      213: -3222909990529842824
+    second: blueGuy_4
+  - first:
+      213: 2834436578208483477
+    second: blueGuy_5
+  - first:
+      213: -59742937601789353
+    second: blueGuy_6
+  - first:
+      213: 9008280731326465675
+    second: blueGuy_7
+  - first:
+      213: 910583883698252522
+    second: blueGuy_8
+  - first:
+      213: -8120123019649178581
+    second: blueGuy_9
+  - first:
+      213: -1559223710292626866
+    second: blueGuy_10
+  - first:
+      213: 7763916279815708209
+    second: blueGuy_11
+  - first:
+      213: 7276615118424232895
+    second: blueGuy_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1195
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueGuy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4455
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b2c38aa014f9540800000000000000
+      internalID: 5016800023942015794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_1
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 4455
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d98fc3ebd8473820800000000000000
+      internalID: 2897864994493270489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_2
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 4455
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9429bf952c874600800000000000000
+      internalID: 452484380795413661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_3
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 4455
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffcef0fccc383340800000000000000
+      internalID: 4843688250151194621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2970
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714967707ce543d0800000000000000
+      internalID: -3222909990529842824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_5
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2970
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988d76ec01f55720800000000000000
+      internalID: 2834436578208483477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_6
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 2970
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75238626d10cb2ff0800000000000000
+      internalID: -59742937601789353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_7
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 2970
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c5b3e897d30d70800000000000000
+      internalID: 9008280731326465675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1485
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaa70eb73b03ac00800000000000000
+      internalID: 910583883698252522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_9
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1485
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24a659c2278f4f80800000000000000
+      internalID: -8120123019649178581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_10
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1485
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4234aeeb468c5ae0800000000000000
+      internalID: -1559223710292626866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_11
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1485
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9944b8b8febb60800000000000000
+      internalID: 7763916279815708209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGuy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1195
+        height: 1485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3d9e4a5eabbf460800000000000000
+      internalID: 7276615118424232895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blueGuy_1: 2897864994493270489
+      blueGuy_3: 4843688250151194621
+      blueGuy_6: -59742937601789353
+      blueGuy_2: 452484380795413661
+      blueGuy_9: -8120123019649178581
+      blueGuy_8: 910583883698252522
+      blueGuy_12: 7276615118424232895
+      blueGuy_0: 5016800023942015794
+      blueGuy_5: 2834436578208483477
+      blueGuy_10: -1559223710292626866
+      blueGuy_7: 9008280731326465675
+      blueGuy_11: 7763916279815708209
+      blueGuy_4: -3222909990529842824
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

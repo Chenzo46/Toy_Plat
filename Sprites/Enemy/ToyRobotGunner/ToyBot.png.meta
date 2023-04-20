@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: b3dab3613038c8c4891af7952e643520
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9029401759415617468
+    second: ToyBot_0
+  - first:
+      213: 1771932099419507671
+    second: ToyBot_1
+  - first:
+      213: -427352535339577184
+    second: ToyBot_2
+  - first:
+      213: -3747667111330562094
+    second: ToyBot_3
+  - first:
+      213: 5434426486074257495
+    second: ToyBot_4
+  - first:
+      213: -32642314372681644
+    second: ToyBot_5
+  - first:
+      213: -5058391196211295830
+    second: ToyBot_6
+  - first:
+      213: -3240066262638093
+    second: ToyBot_7
+  - first:
+      213: 4266750598162377139
+    second: ToyBot_8
+  - first:
+      213: -4163359508362334852
+    second: ToyBot_9
+  - first:
+      213: -2505493748991708471
+    second: ToyBot_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1268
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ToyBot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb741447f01ee4d70800000000000000
+      internalID: 9029401759415617468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_1
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3030
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db03083bda279810800000000000000
+      internalID: 1771932099419507671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_2
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3030
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d831222db11af0800000000000000
+      internalID: -427352535339577184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_3
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 3030
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3ab44e9c9dfbc0800000000000000
+      internalID: -3747667111330562094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1515
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7503e64a816fa6b40800000000000000
+      internalID: 5434426486074257495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_5
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1515
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4507b2fecf70c8ff0800000000000000
+      internalID: -32642314372681644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_6
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1515
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9ccdee10cfcc9b0800000000000000
+      internalID: -5058391196211295830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_7
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 1515
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1ed594d2d74fff0800000000000000
+      internalID: -3240066262638093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b967a4101b863b30800000000000000
+      internalID: 4266750598162377139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_9
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 0
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d61d7e596c836c0800000000000000
+      internalID: -4163359508362334852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyBot_10
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 0
+        width: 1268
+        height: 1515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23360c5b2ba3dd0800000000000000
+      internalID: -2505493748991708471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ToyBot_7: -3240066262638093
+      ToyBot_4: 5434426486074257495
+      ToyBot_3: -3747667111330562094
+      ToyBot_6: -5058391196211295830
+      ToyBot_5: -32642314372681644
+      ToyBot_1: 1771932099419507671
+      ToyBot_2: -427352535339577184
+      ToyBot_8: 4266750598162377139
+      ToyBot_0: 9029401759415617468
+      ToyBot_10: -2505493748991708471
+      ToyBot_9: -4163359508362334852
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
